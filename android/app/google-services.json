@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289923950791",
+    "project_id": "nebula-94afb",
+    "storage_bucket": "nebula-94afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289923950791:android:cc50026472b00825fc36e2",
+        "android_client_info": {
+          "package_name": "com.riderio.nebula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289923950791-00fim9u6o3ggl0ov7r55uop5s5rm2em9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi6fj49tNclLtElaoHlDjSD3ccjuUFWZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289923950791-00fim9u6o3ggl0ov7r55uop5s5rm2em9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
