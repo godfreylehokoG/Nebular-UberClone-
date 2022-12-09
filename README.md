@@ -1,6 +1,9 @@
 # Nebular - A Safe Ride-Sharing App for Women
 Nebular is a ride-sharing app that is exclusively for women. The app was created to provide a safe and reliable space for women to get around, without having to worry about their safety. With Nebular, women can feel secure knowing that all passengers and drivers are also women.
 
+### Project Landing Page
+https://godfreylehokog.github.io/Nebular-UberClone-/
+
 
 ## Technologies Used
 •	Kotlin
@@ -36,6 +39,10 @@ Usage
 
 ## Contributing
 We welcome contributions to Nebular! If you have an idea for a new feature or have found a bug, please open a new issue and describe your idea or problem.
+
+
+License
+Nebular is fully Open Source.
 
 ## Nebular Passenger
 
