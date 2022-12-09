@@ -37,6 +37,6 @@ Usage
 ## Contributing
 We welcome contributions to Nebular! If you have an idea for a new feature or have found a bug, please open a new issue and describe your idea or problem.
 
-![## Nebular Passenger](/images/Nebular%20Passenger.png "Screen Short of The passenger side")
+![## Nebular Passenger](/images/Nebular%20Passenger.png "Screen Short of The passenger side Demo")
 
-![## Nebular Driver](/images/Nebular%20Passenger.png "Screen Short of The Driver side")
+![## Nebular Driver](/images/Nebular%20Passenger.png "Screen Short of The Driver side Demo")
